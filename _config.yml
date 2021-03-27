@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "comp.html"}
   - {file: "ling.html"}
   - {file: "phil.html"}
-  - title: "Professional"
+  - file: "personal.html"
     sublinks:
     - file: "cv.html"
     - file: "projects.html"
