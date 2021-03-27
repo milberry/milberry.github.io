@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Twitter, icon: twitter-square, url: "twitter.com/politbuwu"}
   - {title: Mail, icon: envelope, url: "robincrofts112@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/milberry"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
