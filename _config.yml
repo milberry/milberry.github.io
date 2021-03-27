@@ -17,9 +17,13 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "archive.html"}
-  - {title: "Random", url: "/comp"}
-  - {title: "Linguistics", url: "/ling"}
-  - {title: "Logic and Philosophy", url: "/phil"}
+  - {file: "comp.html"}
+  - {file: "ling.html"}
+  - {file: "phil.html"}
+  - title: "Professional"
+    - url: "cv.html"
+    - url: "projects.html"
+    - url: "bio.html"
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Twitter, icon: twitter-square, url: "https://twitter.com/politbuwu"}
