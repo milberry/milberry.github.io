@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "ling.html"}
   - {file: "phil.html"}
   - title: "Professional"
-    sublink:
+    sublinks:
     - file: "cv.html"
     - file: "projects.html"
     - file: "bio.html"
