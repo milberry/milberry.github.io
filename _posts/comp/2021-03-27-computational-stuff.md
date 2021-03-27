@@ -10,7 +10,7 @@ tags: test
 
 $$ \forall{x}[\neg (P(x) \land Q(x)) \to (\neg P(x) \lor neg Q(x))] $$
 
-$$ \displaystyle \integral_{0}^{1} x \mathrm{d}x $$
+$$ \int_{0}^{1} x \mathrm{d}x $$
 
 ```python
 def poop:
