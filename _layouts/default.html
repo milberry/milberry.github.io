@@ -48,7 +48,7 @@
                                   <li role="separator" class="divider"></li>
                               {% else %}
                                   <li>
-                                      <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                      <a href="{{ "/" | relaive_url }}">class="title"{{ sublink.title | escape }}</a>
                                   </li>
                               {% endif %}
                           {% endfor %}
